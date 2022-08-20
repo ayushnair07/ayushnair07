@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Game Devlopment
+- 👯 I’m looking to collaborate on Unity And Unreal Engine
+- 💬 Ask me about 2D and 3D Game Creation
+
